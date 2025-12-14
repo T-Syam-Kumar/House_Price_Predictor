@@ -31,3 +31,4 @@ with open("model.pkl", "wb") as file:
 
 print(f"Model trained successfully!")
 print(f"R² Accuracy: {accuracy:.2f}")
+
